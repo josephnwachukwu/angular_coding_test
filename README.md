@@ -30,4 +30,8 @@ The following items are necessary in order run the code in this repository
 1. Fork this project or download the zip
 2. Open your terminal and cd in to the root directory of the project
 3. Do an ```npm install``` to get all the dependencies and set up the project
-4. 
+4. Do an ```npm start``` to run the project and begin developing.
+
+## Completion
+
+upon completion zip the project without the ```node_modules``` folder and send it to the email address stated in the email that was given to you when you first recieved the test. 
