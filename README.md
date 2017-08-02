@@ -17,7 +17,7 @@ You will also be given a list of the top prospective nba players that will be th
 - All data should be injected into the controllers through services.
 
 ## Extra Credit 
-write a unit test for the services that ensures data is available
+Write a unit test for the services that ensures data is available
 
 ## Prerequisites
 
@@ -34,4 +34,4 @@ The following items are necessary in order run the code in this repository
 
 ## Completion
 
-upon completion zip the project without the ```node_modules``` folder and send it to the email address stated in the email that was given to you when you first recieved the test. 
+Upon completion zip the project without the ```node_modules``` folder and send it to the email address stated in the email that was given to you when you first recieved the test. 
