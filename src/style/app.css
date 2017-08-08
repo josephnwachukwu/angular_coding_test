@@ -1,0 +1,9 @@
+footer {
+	min-height: 100px;
+	position: absolute;
+	bottom:0px;
+	color: #000;
+}
+footer:after{
+	content: " "
+}
