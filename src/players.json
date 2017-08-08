@@ -1,0 +1,52 @@
+[
+	{
+		"name": "Markelle Fultz",
+		"position": "Guard",
+		"college": "Washington"
+	},
+	{
+		"name": "Lonzo Ball",
+		"position": "Guard",
+		"college": "UCLA"
+	},
+	{
+		"name": "Jayson Tatum",
+		"position": "Forward",
+		"college": "Duke"
+	},
+	{
+		"name": "Josh Jackson",
+		"position": "Forward",
+		"college": "Kansas"
+	},
+	{
+		"name": "DeAaron Fox",
+		"position": "Guard",
+		"college": "Kentucky"
+	},
+	{
+		"name": "Jonathan Isaac",
+		"position": "Forward",
+		"college": "Florida State"
+	},
+	{
+		"name": "Lauri Markkanen",
+		"position": "Forward",
+		"college": "Arizona"
+	},
+	{
+		"name": "Frank Ntilikina",
+		"position": "Guard",
+		"college": "France"
+	},
+	{
+		"name": "Dennis Smith Jr.",
+		"position": "Guard",
+		"college": "NC State"
+	},
+	{
+		"name": "Zach Collins",
+		"position": "Forward/Center",
+		"college": "Gonzaga"
+	}
+]
