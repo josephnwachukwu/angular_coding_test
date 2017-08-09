@@ -11,13 +11,14 @@ You will also be given a list of the top prospective NBA players that will be th
 
 ## Rules
 - Your interface should have a drop down for the teams and a dropdown for the players.
-- One should be selected from each list and then the place button should be pressed which adds the player and his team to a final selection roster.
-- As the players are selected and the team is selected they should be removed from each list as the selection is complete.
-- When all the players have been placed on teams. a continue button should appear that takes you to the page that has the final roster.
+- One should be selected from each list and then the "place" button should be pressed which adds the player and his team to a final selection roster.
+- After a player is placed on a team, each should be removed from their respective dropdowns.
+- When all the players have been placed on teams, a "continue" button should appear that takes you to the page that has the final roster.
 - All data should be injected into the controllers through services.
 
 ## Extra Credit
-Write a unit test for the services that ensures data is available
+- Write a unit test for the services that ensures data is available.
+- Replace the css with a preprocessor such as Less or Sass. Use some of its features.
 
 ## Prerequisites
 
